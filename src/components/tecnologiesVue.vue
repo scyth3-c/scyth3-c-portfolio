@@ -2,7 +2,7 @@
   <b-container>
     <b-card variant="dark" class="container shadow-lg rounded mt-5">
       <span class="text-dark font-weight-bold">technologies of use</span> <br />
-      <span class="text-secondary">(move the mouse inside)</span>
+      <span class="text-secondary">(move the mouse or touch the icons)</span>
 
       <hr />
 
