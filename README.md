@@ -3,8 +3,8 @@
 https://bohorquez.tech/
 
 ![image](https://user-images.githubusercontent.com/52190352/179694210-cf6d84ce-7ce7-4e36-8702-3b46229e0fcb.png)
-![image](https://user-images.githubusercontent.com/52190352/179694309-64747817-5641-44b4-85b5-ba2495d7ca13.png)
-![image](https://user-images.githubusercontent.com/52190352/179694354-95ab1278-2cb4-47d1-8aa1-99d128323215.png)
+![image](https://user-images.githubusercontent.com/52190352/179819396-503dabe6-8bfa-42d3-92e4-9073ab78e463.png)
+![image](https://user-images.githubusercontent.com/52190352/179819434-dc42324a-8722-4ecc-807c-e65a532298b6.png)
 
 
 
