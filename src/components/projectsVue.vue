@@ -31,6 +31,7 @@ export default {
     data() {
         return {
             slides: [
+                {caption: "C++ Web Server", src: require("../assets/projects/webserver.png"), link: "https://github.com/scyth3-c/Magnetar-core"},
                 {caption: "C++ Online Compiler", src: require("../assets/projects/compiler.png"), link: "https://github.com/scyth3-c/knock-cpp-online"},
                 {caption: "C++ Terminal Chat Room", src: require("../assets/projects/chatroom.png"), link: "https://github.com/scyth3-c/rwnio-chatroom"},
                 {caption: "C++ compile node api", src: require("../assets/projects/cpp-api.png"), link: "https://github.com/scyth3-c/knock-cpp-API"},

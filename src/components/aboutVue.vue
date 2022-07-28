@@ -2,11 +2,11 @@
     
       <b-container class="mt-4">
     
-          <span class="text-dark font-weight-bold">About Me</span> <br>
+          <span title="about me" class="text-dark font-weight-bold">About Me</span> <br>
           <hr>
 
             <b-card class="my-2 shadow-lg">
-                <span class="text-secondary">Kevin~</span>
+                <span title="kevin" class="text-secondary">Kevin~</span>
                 <hr>
                 My name is Kevin, I'm 19 years old and I live in Colombia, since I'm in high school I have ventured into the world of electronics and programming.
             </b-card>
