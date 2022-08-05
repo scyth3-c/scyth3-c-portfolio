@@ -29,9 +29,6 @@
       <b-nav-item title="github" :href="github"
         ><b-icon icon="github" variant="dark"></b-icon
       ></b-nav-item>
-      <b-nav-item :href="phone"
-        ><b-icon icon="telephone-fill" variant="dark"></b-icon
-      ></b-nav-item>
       <b-nav-item :href="mail"
         ><b-icon icon="envelope-fill" variant="dark"></b-icon
       ></b-nav-item>
@@ -51,7 +48,6 @@ export default {
    data() {
           return {
                  github: 'https://github.com/scyth3-c',
-                 phone: 'https://wa.me/573203031924',
                  mail: 'mailto:bohordo.png@gmail.com',
                  linkedin: 'https://www.linkedin.com/in/kevin-bohorquez-rojas-bohordo/',
                  youtube: 'https://www.youtube.com/channel/UCAWCJbCl07jXmPz1vHcTqWw'

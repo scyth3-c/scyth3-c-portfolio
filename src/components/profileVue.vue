@@ -5,7 +5,7 @@
           <span class="text-dark font-weight-bold">Personal Profile</span> <br>
           <hr>
           <p class="font-italic">
-            I am a person who believes in the power of teamwork, in growing and learning more every day, competitive and who does not give up on her ambitions.
+            I am a person who believes in the power of teamwork, in growing and learning more every day, competitive and who does not give up on him ambitions.
             </p>
           
      </b-card>
