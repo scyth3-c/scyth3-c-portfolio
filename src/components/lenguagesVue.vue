@@ -30,11 +30,11 @@ export default {
         return {
             bars: [
                 {title: "C++", value: 75, variant: "primary"},
-                {title: "Vue", value: 60, variant: "success"},
-                {title: "JavaScript", value:70, variant: "warning"},
-                {title: "TypeScript", value: 70, variant: "primary"},
+                {title: "Vue", value: 70, variant: "success"},
+                {title: "JavaScript", value:60, variant: "warning"},
+                {title: "TypeScript", value: 80, variant: "primary"},
                 {title: "PHP", value: 50, variant: "danger"},
-                {title: ".NET Core", value: 56, variant: "primary"},
+                {title: ".NET", value: 56, variant: "primary"},
             ]
         }
     }

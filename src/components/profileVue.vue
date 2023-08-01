@@ -21,11 +21,11 @@
          </b-badge>
          <br>
          <b-badge variant="dark">
-             Colombia. Bogota, D.C
+            B1 in English
          </b-badge>
          <br>   
          <b-badge>
-             studying
+             bohordo.png@gmail.com
          </b-badge>
      </b-card>
  </b-container>

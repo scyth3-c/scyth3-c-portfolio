@@ -25,6 +25,7 @@ export default {
 <style scoped>
 .footer-vw {
   background: rgb(27, 27, 27);
+  border-radius: 0;
 }
 .footer-list {
   list-style: none;

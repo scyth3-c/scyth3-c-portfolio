@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" class="backgn">
     <barra-vue/>
 
     <div class="m-4">
@@ -55,3 +55,18 @@ export default {
 }
 }
 </script>
+
+<style>
+
+.backgn {
+  background-image: url('./assets/pep.jpg');
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .backgn{
+    background-size: contain;
+  }
+}
+
+</style>

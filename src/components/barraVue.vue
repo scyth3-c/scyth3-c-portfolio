@@ -2,13 +2,13 @@
   <b-navbar toggleable="lg" class="navbar-horizontal shadow-lg">
     <b-navbar-brand>
       <b-icon icon="person-badge-fill" variant="dark"></b-icon>
-      <span title="name" class="font-weight-bold mt-auto ml-3"> Kevin Bohorquez Rojas</span>
+      <span title="name" class="font-weight-bold mt-auto ml-3 forx"> Kevin Bohorquez Rojas</span>
     </b-navbar-brand>
 
     <b-navbar-nav>
       <b-nav-item href="#" class="mt-auto ml-auto">
         <b-badge variant="white">
-          <span title="ocupation" class="text-secondary">Backend Engineer </span>
+          <span title="ocupation" class="lowtxt">Backend Engineer </span>
           <b-icon variant="secondary" icon="code-slash"></b-icon></b-badge
       ></b-nav-item>
       <b-nav-item
@@ -16,7 +16,7 @@
         class="mt-auto ml-auto"
       >
         <b-badge variant="white">
-          <span title="location" class="text-secondary">Colombia. Bogotá, D.C </span>
+          <span title="location" class="lowtxt">Colombia. Bogotá, D.C </span>
           <b-icon
             variant="secondary"
             scale="0.9"
@@ -27,16 +27,16 @@
 
     <b-navbar-nav class="ml-auto display-inline">
       <b-nav-item title="github" :href="github"
-        ><b-icon icon="github" variant="dark"></b-icon
+        ><b-icon icon="github" class="icon-color"></b-icon
       ></b-nav-item>
       <b-nav-item :href="mail"
-        ><b-icon icon="envelope-fill" variant="dark"></b-icon
+        ><b-icon icon="envelope-fill" class="icon-color" ></b-icon
       ></b-nav-item>
       <b-nav-item :href="linkedin"
-        ><b-icon icon="linkedin" variant="dark"></b-icon
+        ><b-icon icon="linkedin" class="icon-color" ></b-icon
       ></b-nav-item>
       <b-nav-item :href="youtube"
-        ><b-icon icon="youtube" variant="dark"></b-icon
+        ><b-icon icon="youtube" class="icon-color" ></b-icon
       ></b-nav-item>
     </b-navbar-nav>
   </b-navbar>
@@ -55,3 +55,23 @@ export default {
       }
 };
 </script>
+<style>
+.forx{
+  font-family: monospace;
+}
+.lowtxt{
+ color: rgb(58, 54, 61);
+ font-weight: bolder;
+}
+
+.icon-color{
+  color: black;
+}
+
+@media (max-width: 768px) {
+  .icon-color{
+    color: white;
+  }
+}
+
+</style>
