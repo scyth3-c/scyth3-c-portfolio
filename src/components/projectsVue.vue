@@ -31,7 +31,7 @@ export default {
     data() {
         return {
             slides: [
-                {caption: "C++ Web Server", src: require("../assets/projects/webserver.png"), link: "https://github.com/scyth3-c/Magnetar"},
+                {caption: "Vibe web framework", src: require("../assets/projects/webserver.png"), link: "https://github.com/vibecc"},
                 {caption: "C++ Online Compiler", src: require("../assets/projects/compiler.png"), link: "https://github.com/scyth3-c/knock-cpp-online"},
                 {caption: "C++ HTTP Library on Curl", src: require("../assets/projects/curl.png"), link: "https://github.com/scyth3-c/curl-http-wrapper"},
                 {caption: "API REST for C++ Online", src: require("../assets/projects/api.jpeg"), link: "https://github.com/scyth3-c/knock-cpp-API"},
